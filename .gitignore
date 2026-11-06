@@ -1,0 +1,18 @@
+# Temporary scaffold configuration
+.scaffold-config.json
+
+# Generated source folders when testing locally
+src/
+target/
+build/
+bin/
+
+# IDE & Editor settings
+.idea/
+.vscode/
+*.iml
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
